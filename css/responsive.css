@@ -1,0 +1,292 @@
+@media screen and (max-width: 1250px) {
+
+	nav ul li
+	{ 
+		margin-right: 22px;	
+	}
+
+}
+@media screen and (max-width: 1150px) {
+	   
+	nav ul li
+	{ 
+		margin-right: 12px;	
+	}
+
+	.services, .services2
+	{
+		height: 320px;
+	
+	}
+	.services .textservices, .services2 .textservices
+	{
+		 
+		padding-top: 20px;
+
+	}
+
+}
+
+@media screen and (max-width: 1020px) {
+	div #mainmenu 
+	{
+		display: none;
+	}
+ .nav-container{
+ 	display: none;
+ }
+
+	div#menuToggle
+	{
+		display: block;
+	}
+	nav ul li
+	{ 
+		margin-right: 12px;	
+	}
+
+	.services, .services2
+	{
+		height: 320px;
+	
+	}
+	.services img, .services2 img
+	{		 
+		display: none;
+	}
+
+	.services .textservices, .services2 .textservices
+	{
+		padding-top: 20px;
+		padding-left: 200px;
+		width: 80%;
+	}
+
+	.about 
+	{		 
+		padding-top: 10px; 
+	}
+
+}
+
+
+@media screen and (max-width: 900px) {
+	   
+	 header
+	{
+		height: 450px; 
+		margin-top: 0;
+	}
+
+
+	.headertext
+	{
+		margin-top:140px;
+	 
+		width: 355px;
+	}
+
+	.headertext h1
+	{
+		font-size: 3.2rem;
+		text-align: right;
+	}
+
+	.headertext button
+	{
+		font-size: 0.7rem;
+		font-weight: bold;	 
+		border-radius: 30px;
+		padding: 12px 36px;
+		border: none;
+		outline: none;
+		background-color: #8824cd;
+		box-shadow: inset 0 1px 0px 1px #ad54ea;
+	  transition: all 0.25s ease-in;
+	 	margin-left: 220px;
+	 	margin-top: 10px;
+
+	}
+	.headertext p
+	{
+		
+		margin-left: 120px;
+	}
+}
+@media screen and (max-width: 800px) {
+	   
+	.logo 
+	{
+		padding-left: 15px;
+		padding-top:10px;
+	}
+
+	 header
+	{
+		height: 350px; 
+		padding: 0px  ;
+	}
+
+
+	.headertext
+	{
+		margin-top:0px;
+	 	padding-top: 60px;
+		width: 255px;
+	}
+
+	.headertext h1
+	{
+		font-size: 2rem;
+		text-align: right;
+	}
+
+	.headertext button
+	{
+		font-size: 0.7rem;
+		font-weight: bold;	 
+		border-radius: 30px;
+		padding: 12px 36px;
+		border: none;
+		outline: none;
+		background-color: #8824cd;
+		box-shadow: inset 0 1px 0px 1px #ad54ea;
+	  transition: all 0.25s ease-in;
+	 	margin-left: 120px;
+	 	margin-top: 10px;
+
+	}
+	.headertext p
+	{
+		
+		margin-left: 120px;
+	}
+	.about 
+	{
+		height: 650px;
+		padding-top: 10px;
+		 
+		 
+	}
+
+	.how
+	{
+		height: 500px;
+		width: 100%;		 
+		padding: 20px 20px 0px 40px;
+		text-align: center;
+		 
+
+	} 
+
+	.how h3
+	{
+		padding-right: 20px; 
+
+	} 
+
+	.how p
+	{
+		padding-right: 20px; 
+
+	} 
+	.how button
+	{
+		margin-right: 20px;
+		padding: 12px 66px;
+	} 
+ 
+	.services  , .services2  
+	{
+		height: 614px;
+	}
+	.services .textservices, .services2 .textservices
+	{
+	 
+		width: 80%;
+		padding-left: 5%;
+		padding-right: 5%;
+		padding-top: 10px;
+		margin-left: 0;
+	}
+
+
+	.faq 
+	{
+		height: 660px;
+		 
+	}
+
+	 
+	.photo h3
+	{
+		 top: 50px;
+	 	left: 10px;
+	 }
+	 
+	.photo p
+	{
+	 top: 50px;
+	 	left: 10px;
+	 }
+	 .photo p span
+	{
+		padding-left: 2px;
+	}
+	 
+	.photo button
+	{
+		position: relative;
+		font-size: 1.3rem;
+	 	border-radius: 30px;
+		padding: 9px 28px;
+		border: 2px white solid;
+		outline: none;
+		background-color: rgba(0,0,0,0);
+	 	top: 50px;
+	 	left: 10px;
+		transition: all 0.25s ease-in;
+	}
+
+	.contact
+	{
+		height: 274px;
+	 
+	}
+
+	.contact h3
+	{
+	 
+		margin-left: 10px;
+		padding-top: 10px;
+	}
+
+	.contact p
+	{
+		font-size: 1.2rem;
+	 	color: white;
+		margin-left: 10px;
+		padding-top: 10px;
+		width: 260px;
+	}
+
+	.contact .email a
+	{
+		 
+		margin-left: 10px;
+		padding-top: 10px;
+	}
+	footer
+	{
+		height: 234px;
+		 
+	}
+
+	footer p
+	{
+		margin-left: 10px;
+		padding-top: 25px;
+		 
+	}
+
+}

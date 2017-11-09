@@ -1,0 +1,40 @@
+* 
+{
+	padding: 0;
+	margin: 0;
+	font-family: 'Open Sans', sans-serif;
+	text-decoration: none;
+	box-sizing: padding-box;
+}
+
+body {
+	 overflow-x: hidden;
+}
+.row {
+	margin: 0;
+}
+
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+}
+
+.pink 
+{
+	color: #e7526b;
+}
+
+.pinkbackground
+{
+	background-color: #e7526b;
+}
+
+.purple 
+{
+	color: #8824cd;
+}
+
+.purplebackground
+{
+	background-color: #8824cd;
+}
